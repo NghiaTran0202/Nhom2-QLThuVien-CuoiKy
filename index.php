@@ -24,17 +24,9 @@
     <div class="container">
 
         <a class="navbar-brand d-flex align-items-center" href="#">
-
-<img
-src="assets/images/logo.jpg"
-alt="Logo"
-width="40"
-height="40"
-class="me-2 rounded-circle">
-
-<span>Quản Lý Thư Viện</span>
-
-</a>
+            <img src="assets/images/logo.png" alt="Logo" width="30" height="30" class="me-2 rounded-circle">
+            Quản Lý Thư Viện
+        </a>
 
         <button class="navbar-toggler"
                 type="button"

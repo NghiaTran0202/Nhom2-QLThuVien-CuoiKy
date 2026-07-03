@@ -121,7 +121,7 @@ THƯ VIỆN ONLINE
 type="text"
 name="search"
 class="form-control"
-placeholder="🔍 Tìm tên sách hoặc tác giả..."
+placeholder=" Tìm tên sách hoặc tác giả..."
 value="<?= htmlspecialchars($search) ?>">
 
 </div>

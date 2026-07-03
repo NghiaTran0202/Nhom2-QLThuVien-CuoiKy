@@ -128,7 +128,7 @@ body{
 
 <h2 class="dashboard-title text-center">
 
-📊 Dashboard Quản Trị
+ Dashboard Quản Trị
 
 </h2>
 

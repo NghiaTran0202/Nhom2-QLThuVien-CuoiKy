@@ -208,7 +208,7 @@ Theo dõi lịch sử mượn và trả sách.
         </p>
 
         <p class="mb-0">
-            © 2026 Quản Lý Thư Viện
+            © 2026 Nhóm 2 - Quản Lý Thư Viện
         </p>
 
     </div>

@@ -108,7 +108,7 @@ body{
 
 <a href="../index.php" class="btn btn-warning">
 
-🏠 Trang Chủ
+ Trang Chủ
 
 </a>
 

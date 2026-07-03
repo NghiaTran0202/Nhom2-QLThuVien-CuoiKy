@@ -17,7 +17,7 @@ body{
 }
 
 .navbar{
-    background:#0d6efd;
+    background:#212529;
 }
 
 .contact-box{

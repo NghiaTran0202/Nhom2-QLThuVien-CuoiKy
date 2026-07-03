@@ -134,7 +134,7 @@ body{
 
 <div class="alert alert-primary text-center">
 
-👋 Xin chào
+ Xin chào
 <b><?= $_SESSION["user"] ?></b>
 
 </div>

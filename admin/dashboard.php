@@ -100,7 +100,7 @@ body{
 
 <span class="navbar-brand">
 
-📚 Trang Quản Trị Thư Viện
+ Trang Quản Trị Thư Viện
 
 </span>
 

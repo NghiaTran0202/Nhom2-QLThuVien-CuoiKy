@@ -114,7 +114,7 @@ body{
 
 <a href="../logout.php" class="btn btn-danger">
 
-🚪 Đăng Xuất
+ Đăng Xuất
 
 </a>
 

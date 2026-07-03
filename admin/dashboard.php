@@ -141,7 +141,7 @@ body{
 
 <h5 class="text-center text-secondary mb-4">
 
-📅 <span id="clock"></span>
+ <span id="clock"></span>
 
 </h5>
 

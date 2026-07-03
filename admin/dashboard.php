@@ -100,7 +100,7 @@ body{
 
 <span class="navbar-brand">
 
-📚 Trang Quản Trị Thư Viện
+ Trang Quản Trị Thư Viện
 
 </span>
 
@@ -108,13 +108,13 @@ body{
 
 <a href="../index.php" class="btn btn-warning">
 
-🏠 Trang Chủ
+ Trang Chủ
 
 </a>
 
 <a href="../logout.php" class="btn btn-danger">
 
-🚪 Đăng Xuất
+ Đăng Xuất
 
 </a>
 
@@ -128,20 +128,20 @@ body{
 
 <h2 class="dashboard-title text-center">
 
-📊 Dashboard Quản Trị
+ Dashboard Quản Trị
 
 </h2>
 
 <div class="alert alert-primary text-center">
 
-👋 Xin chào
+ Xin chào
 <b><?= $_SESSION["user"] ?></b>
 
 </div>
 
 <h5 class="text-center text-secondary mb-4">
 
-📅 <span id="clock"></span>
+ <span id="clock"></span>
 
 </h5>
 

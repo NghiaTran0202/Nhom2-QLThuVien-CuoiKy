@@ -60,7 +60,7 @@ rel="stylesheet">
 <a href="../dashboard.php"
 class="navbar-brand">
 
-📚 Quản Lý Thư Viện
+ Quản Lý Thư Viện
 
 </a>
 
@@ -72,7 +72,7 @@ class="navbar-brand">
 
 <div class="d-flex justify-content-between align-items-center mb-3">
 
-<h2>Danh Sách Sách</h2>
+<h2>Thư Mục Sách</h2>
 
 <a href="add.php"
 class="btn btn-success">

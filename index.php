@@ -23,9 +23,18 @@
 
     <div class="container">
 
-        <a class="navbar-brand" href="index.php">
-             Quản Lý Thư Viện
-        </a>
+        <a class="navbar-brand d-flex align-items-center" href="#">
+
+<img
+src="assets/images/logo.jpg"
+alt="Logo"
+width="40"
+height="40"
+class="me-2 rounded-circle">
+
+<span>Quản Lý Thư Viện</span>
+
+</a>
 
         <button class="navbar-toggler"
                 type="button"

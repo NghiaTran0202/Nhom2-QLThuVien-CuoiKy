@@ -60,7 +60,7 @@ rel="stylesheet">
 <a href="../dashboard.php"
 class="navbar-brand">
 
-📚 Quản Lý Thư Viện
+ Quản Lý Thư Viện
 
 </a>
 

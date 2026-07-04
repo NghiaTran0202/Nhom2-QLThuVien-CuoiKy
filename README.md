@@ -120,6 +120,55 @@ NHOM2-QLTHUVIEN-CUOIKY/
 4. Import cơ sở dữ liệu library_management.
 5. Truy cập:
 
+## Một số giao diện website
+
+## Trang chủ
+
+![Trang chủ](assets/images/Home.jpg)
+
+## Thư mục sách
+
+![Thư mục sách](assets/images/list.jpg)
+
+## Lịch sử mượn sách
+
+![Lịch sử mượn sách](assets/images/history.jpg)
+
+## Trang quản trị
+
+![Trang quản trị](assets/images/Admin2.jpg)
+
+## Thư mục sách
+
+![Thư mục sách](assets/images/list2.jpg)
+
+## Thêm sách
+
+![Thêm sách](assets/images/add.jpg)
+
+## Danh sách độc giả
+
+![Danh sách độc giả](assets/images/list3.jpg)
+
+## Thêm độc giả
+
+![Thêm độc giả](assets/images/add2.jpg)
+
+## Danh sách mượn sách
+
+![Danh sách mượn sách](assets/images/borrowlist.jpg)
+
+## Tạo phiếu mượn
+
+![Tạo phiếu mượn](assets/images/borrowform.jpg)
+
+## Báo cáo thống kê
+
+![Báo cáo thống kê](assets/images/report.jpg)
+
+## Liên hệ thư viện
+
+![Liên hệ thư viện](assets/images/contact.jpg)
 
 ---
 
@@ -134,4 +183,3 @@ https://github.com/NghiaTran0202/Nhom2-QLThuVien-CuoiKy
 - Trần Trọng Nghĩa
 - Nguyễn Hải Duy
 - Đoàn Hoàng Hảo
-- Ngô Chí Quyển

@@ -209,7 +209,7 @@ body{
 
 <a href="books/index.php" class="btn btn-primary w-100 action-btn">
 
-📚 Quản lý sách
+ Quản lý sách
 
 </a>
 
@@ -219,7 +219,7 @@ body{
 
 <a href="readers/index.php" class="btn btn-success w-100 action-btn">
 
-👨‍🎓 Quản lý độc giả
+ Quản lý độc giả
 
 </a>
 
@@ -229,7 +229,7 @@ body{
 
 <a href="borrows/index.php" class="btn btn-warning w-100 action-btn">
 
-🔄 Mượn trả sách
+ Mượn trả sách
 
 </a>
 
@@ -239,7 +239,7 @@ body{
 
 <a href="reports/index.php" class="btn btn-danger w-100 action-btn">
 
-📈 Báo cáo
+ Báo cáo
 
 </a>
 

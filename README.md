@@ -177,6 +177,9 @@ NHOM2-QLTHUVIEN-CUOIKY/
 https://github.com/NghiaTran0202/Nhom2-QLThuVien-CuoiKy
 
 ---
+## Link video Demo
+
+https://www.youtube.com/watch?v=qumvmC7MZ_8
 
 ## Thành viên
 

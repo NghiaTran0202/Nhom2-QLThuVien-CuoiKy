@@ -186,3 +186,5 @@ https://www.youtube.com/watch?v=qumvmC7MZ_8
 - Trần Trọng Nghĩa
 - Nguyễn Hải Duy
 - Đoàn Hoàng Hảo
+
+- Ngô Chí Quyển (trong quá trình làm đồ án đã không tham gia nên đã loại ra khỏi nhóm)

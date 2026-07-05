@@ -18,7 +18,7 @@ if(!$borrow){
 
 if($borrow['status'] == "Đang mượn"){
 
-    // Cập nhật trạng thái
+  
     $updateBorrow = $conn->prepare("
         UPDATE borrows
         SET status='Đã trả'
@@ -27,7 +27,7 @@ if($borrow['status'] == "Đang mượn"){
 
     $updateBorrow->execute([$id]);
 
-    // Tăng số lượng sách
+   
     $updateBook = $conn->prepare("
         UPDATE books
         SET quantity = quantity + 1

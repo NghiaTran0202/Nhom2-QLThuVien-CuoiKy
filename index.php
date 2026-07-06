@@ -24,17 +24,9 @@
     <div class="container">
 
         <a class="navbar-brand d-flex align-items-center" href="#">
-
-<img
-src="assets/images/logo.jpg"
-alt="Logo"
-width="40"
-height="40"
-class="me-2 rounded-circle">
-
-<span>Quản Lý Thư Viện</span>
-
-</a>
+            <img src="assets/images/logo.png" alt="Logo" width="30" height="30" class="me-2 rounded-circle">
+            Quản Lý Thư Viện
+        </a>
 
         <button class="navbar-toggler"
                 type="button"
@@ -63,7 +55,7 @@ class="me-2 rounded-circle">
 
                 <li class="nav-item">
                     <a class="nav-link" href="login.php">
-                        Đăng nhập
+                        ADMIN
                     </a>
                 </li>
 
@@ -216,7 +208,7 @@ Theo dõi lịch sử mượn và trả sách.
         </p>
 
         <p class="mb-0">
-            © 2026 Quản Lý Thư Viện
+            © 2026 Nhóm 2 - Quản Lý Thư Viện
         </p>
 
     </div>
